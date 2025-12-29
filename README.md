@@ -478,34 +478,4 @@ None at this time. Please report issues on GitHub.
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Purple Merit Technologies for the assessment opportunity
-- Supabase for the amazing backend platform
-- React and Express communities
-
----
-
-## 📞 Support
-
-For questions or issues:
-- 📧 Email: your.email@example.com
-- 🐛 GitHub Issues: [Create an issue](https://github.com/yourusername/repo/issues)
-
----
-
 **Built with ❤️ for Purple Merit Technologies Backend Intern Assessment**
